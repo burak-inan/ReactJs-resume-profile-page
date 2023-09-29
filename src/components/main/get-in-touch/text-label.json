@@ -1,0 +1,7 @@
+[
+  {"type":"text", "name": "InputName", "id":"InputName" , "placeholder":"Your Name", "required":true}, 
+  {"type":"email", "name": "InputEmail", "id":"InputEmail" , "placeholder":"Your Email", "required":true}, 
+  {"type":"text", "name": "InputPhone", "id":"InputPhone" , "placeholder":"Phone (optional)", "required":false}, 
+  {"type":"text", "name": "InputSubject", "id":"InputSubject" , "placeholder":"Subject", "required":false} 
+
+]

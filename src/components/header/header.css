@@ -1,0 +1,19 @@
+.header {
+  background: #5655da;
+  padding: 46px;
+  position: fixed;
+  height: 100%;
+  width: 260px;
+  z-index: 6;
+}
+
+
+.sidenav {
+  -ms-transform: translateX(0px) !important;
+  -webkit-transform: translateX(0px) !important;
+  transform: translateX(0px) !important;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
